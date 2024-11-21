@@ -1,0 +1,9 @@
+P = I^2 R
+P = V^2/R
+
+Circuit Rules
+Rule 1: In a series circuit the current will be the same all the way around
+Rule 2: in a parallel circuit the amps will add up to the total amps supplied.
+Rule 3: In a series circuit the volts will add up to the total volts supplied.
+Rule 4: In a parrallel circuit the voltage will be the same for each lamp as the supply voltage.
+Rule 5: The brightness of a bulb depends on the current and voltage, so the brightness depends on the overall power, P=IV
