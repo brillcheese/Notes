@@ -1,0 +1,67 @@
+Concave Mirrors (interesting *shiny*)
+Using f, the focal length and C, the centre of curvature
+(sometimes called the radius), where C = r = 2f
+The object is beyond C
+The image will be an inverted image/reduced in size/real
+  
+The object is at C
+The image will be inverted/equal to the object size/real.
+  
+The object is between C & F
+The image will be inverted/larger/real.
+  
+The object is at F
+When the object is located at the focal point, no image is formed.
+  
+The object is in front of F
+The image will be
+upright/magnified/virtual. The image is behind the mirror.
+
+---
+Convex Mirrors (dull *no pun intended*)
+Object
+Regardless of the position of the object the image will always be virtual/upright/ reduced in size. The image is behind the mirror. The image is located behind the mirror by tracing the rays back to where they appear to come from.
+For all mirrors:
+• If d; is behind the mirror/virtual it is negative
+• The image height, h, for a virtual image is negative
+• The focal length for a convex mirror is negative
+
+---
+  
+
+Convex Lenses (interesting)
+Ray diagrams for Convex Lenses
+1. A ray parallel to the principal axis will be refracted through F behind the lens.
+2. A ray that passes through F in front of the lens will be refracted parallel to the principal axis.
+3. A ray that passes through the centre of lens (the pole) will continue with no change in direction
+Using f, the focal length and C, the centre of curvature
+(where C= r = 2f):
+The object is beyond C
+The image will be
+inverted/reduced in size/real.
+  
+The object is at 2F
+The image will be inverted/ equal to the object size/real.
+  
+The object is between C & F
+The image will be inverted/larger/real
+  
+The object is at F
+When the object is located at the focal point, no image is formed.
+No Image is Formed
+
+The object is in front of F
+The image will be an upright image/magnified/virtual. The image is located on the object's side of the lens.
+
+---
+Concave Lenses (dull)
+Ray diagrams for Convex Lenses
+1. A ray parallel to the principal axis will be refracted away from as if it has come from the focal point F in front of the lens
+2. A ray that heading towards F behind the lens will be refracted parallel to the principal axis.
+3. A ray that passes through the centre of lens (the pole) will continue with no change in direction
+Regardless of the position of the object the image will be virtual/upright/reduced in size. The image is located on the object's side of the lens by tracing the rays back to where they appear to come from.
+For all lenses:
+
+• If di is the same side as the object it is negative
+• The image height, h; for a virtual image is negative
+• The focal length for a concave lens is negative
